@@ -1,0 +1,471 @@
+{
+    "vegetarian": false,
+    "vegan": false,
+    "glutenFree": false,
+    "dairyFree": true,
+    "veryHealthy": false,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "weightWatcherSmartPoints": 9,
+    "gaps": "no",
+    "lowFodmap": false,
+    "preparationMinutes": 10,
+    "cookingMinutes": 10,
+    "aggregateLikes": 225,
+    "spoonacularScore": 96,
+    "healthScore": 46,
+    "creditsText": "Feed Me Phoebe",
+    "sourceName": "Feed Me Phoebe",
+    "pricePerServing": 199.25,
+    "extendedIngredients": [
+      {
+        "id": 18079,
+        "aisle": "Pasta and Rice",
+        "image": "breadcrumbs.jpg",
+        "consistency": "solid",
+        "name": "breadcrumbs",
+        "nameClean": "breadcrumbs",
+        "original": "1/2 cup fresh breadcrumbs (I used gluten-free!)",
+        "originalName": "fresh breadcrumbs (I used gluten-free!)",
+        "amount": 0.5,
+        "unit": "cup",
+        "meta": [
+          "fresh",
+          "(I used gluten-free!)"
+        ],
+        "measures": {
+          "us": {
+            "amount": 0.5,
+            "unitShort": "cups",
+            "unitLong": "cups"
+          },
+          "metric": {
+            "amount": 118.294,
+            "unitShort": "ml",
+            "unitLong": "milliliters"
+          }
+        }
+      },
+      {
+        "id": 11135,
+        "aisle": "Produce",
+        "image": "cauliflower.jpg",
+        "consistency": "solid",
+        "name": "cauliflower",
+        "nameClean": "cauliflower",
+        "original": "1 head of cauliflower",
+        "originalName": "cauliflower",
+        "amount": 1,
+        "unit": "head",
+        "meta": [],
+        "measures": {
+          "us": {
+            "amount": 1,
+            "unitShort": "head",
+            "unitLong": "head"
+          },
+          "metric": {
+            "amount": 1,
+            "unitShort": "head",
+            "unitLong": "head"
+          }
+        }
+      },
+      {
+        "id": 11297,
+        "aisle": "Produce;Spices and Seasonings",
+        "image": "parsley.jpg",
+        "consistency": "solid",
+        "name": "fresh parsley",
+        "nameClean": "parsley",
+        "original": "1 handful parsley, chopped",
+        "originalName": "parsley, chopped",
+        "amount": 1,
+        "unit": "handful",
+        "meta": [
+          "chopped"
+        ],
+        "measures": {
+          "us": {
+            "amount": 1,
+            "unitShort": "handful",
+            "unitLong": "handful"
+          },
+          "metric": {
+            "amount": 1,
+            "unitShort": "handful",
+            "unitLong": "handful"
+          }
+        }
+      },
+      {
+        "id": 2063,
+        "aisle": "Produce",
+        "image": "rosemary.jpg",
+        "consistency": "solid",
+        "name": "fresh rosemary",
+        "nameClean": "fresh rosemary",
+        "original": "2 teaspoons fresh rosemary, chopped",
+        "originalName": "fresh rosemary, chopped",
+        "amount": 2,
+        "unit": "teaspoons",
+        "meta": [
+          "fresh",
+          "chopped"
+        ],
+        "measures": {
+          "us": {
+            "amount": 2,
+            "unitShort": "tsps",
+            "unitLong": "teaspoons"
+          },
+          "metric": {
+            "amount": 2,
+            "unitShort": "tsps",
+            "unitLong": "teaspoons"
+          }
+        }
+      },
+      {
+        "id": 9297,
+        "aisle": "Dried Fruits;Produce;Baking",
+        "image": "golden-raisins.jpg",
+        "consistency": "solid",
+        "name": "golden raisins",
+        "nameClean": "golden raisins",
+        "original": "1/4 cup golden raisins, chopped",
+        "originalName": "golden raisins, chopped",
+        "amount": 0.25,
+        "unit": "cup",
+        "meta": [
+          "chopped"
+        ],
+        "measures": {
+          "us": {
+            "amount": 0.25,
+            "unitShort": "cups",
+            "unitLong": "cups"
+          },
+          "metric": {
+            "amount": 59.147,
+            "unitShort": "ml",
+            "unitLong": "milliliters"
+          }
+        }
+      },
+      {
+        "id": 4053,
+        "aisle": "Oil, Vinegar, Salad Dressing",
+        "image": "olive-oil.jpg",
+        "consistency": "liquid",
+        "name": "olive oil",
+        "nameClean": "olive oil",
+        "original": "1/4 cup olive oil, divided",
+        "originalName": "olive oil, divided",
+        "amount": 0.25,
+        "unit": "cup",
+        "meta": [
+          "divided"
+        ],
+        "measures": {
+          "us": {
+            "amount": 0.25,
+            "unitShort": "cups",
+            "unitLong": "cups"
+          },
+          "metric": {
+            "amount": 59.147,
+            "unitShort": "ml",
+            "unitLong": "milliliters"
+          }
+        }
+      },
+      {
+        "id": 12147,
+        "aisle": "Produce;Baking",
+        "image": "pine-nuts.png",
+        "consistency": "solid",
+        "name": "pine nuts",
+        "nameClean": "pine nuts",
+        "original": "1/2 cup pine nuts",
+        "originalName": "pine nuts",
+        "amount": 0.5,
+        "unit": "cup",
+        "meta": [],
+        "measures": {
+          "us": {
+            "amount": 0.5,
+            "unitShort": "cups",
+            "unitLong": "cups"
+          },
+          "metric": {
+            "amount": 118.294,
+            "unitShort": "ml",
+            "unitLong": "milliliters"
+          }
+        }
+      },
+      {
+        "id": 1012047,
+        "aisle": "Spices and Seasonings",
+        "image": "salt.jpg",
+        "consistency": "solid",
+        "name": "sea salt",
+        "nameClean": "coarse sea salt",
+        "original": "1 teaspoon sea salt",
+        "originalName": "sea salt",
+        "amount": 1,
+        "unit": "teaspoon",
+        "meta": [],
+        "measures": {
+          "us": {
+            "amount": 1,
+            "unitShort": "tsp",
+            "unitLong": "teaspoon"
+          },
+          "metric": {
+            "amount": 1,
+            "unitShort": "tsp",
+            "unitLong": "teaspoon"
+          }
+        }
+      },
+      {
+        "id": 10211111,
+        "aisle": "Ethnic Foods;Spices and Seasonings",
+        "image": "dried-sumac.jpg",
+        "consistency": "solid",
+        "name": "sumac",
+        "nameClean": "sumac",
+        "original": "1/2 teaspoon sumac",
+        "originalName": "sumac",
+        "amount": 0.5,
+        "unit": "teaspoon",
+        "meta": [],
+        "measures": {
+          "us": {
+            "amount": 0.5,
+            "unitShort": "tsps",
+            "unitLong": "teaspoons"
+          },
+          "metric": {
+            "amount": 0.5,
+            "unitShort": "tsps",
+            "unitLong": "teaspoons"
+          }
+        }
+      }
+    ],
+    "id": 479101,
+    "title": "On the Job: Pan Roasted Cauliflower From Food52",
+    "readyInMinutes": 20,
+    "servings": 4,
+    "sourceUrl": "http://feedmephoebe.com/2013/11/job-food52s-pan-roasted-cauliflower/",
+    "image": "https://spoonacular.com/recipeImages/479101-556x370.jpg",
+    "imageType": "jpg",
+    "summary": "On the Job: Pan Roasted Cauliflower From Food52 is a <b>dairy free</b> side dish. One portion of this dish contains roughly <b>7g of protein</b>, <b>26g of fat</b>, and a total of <b>350 calories</b>. This recipe serves 4. For <b>$1.99 per serving</b>, this recipe <b>covers 20%</b> of your daily requirements of vitamins and minerals. This recipe is liked by 225 foodies and cooks. A mixture of breadcrumbs, rosemary, sea salt, and a handful of other ingredients are all it takes to make this recipe so tasty. From preparation to the plate, this recipe takes around <b>20 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 97%</b>. This score is tremendous. Try <a href=\"https://spoonacular.com/recipes/food52s-roasted-broccoli-with-smoked-paprika-vinaigrette-and-marcona-almonds-110229\">Food52's Roasted Broccoli with Smoked Paprika Vinaigrette and Marconan Almonds</a>, <a href=\"https://spoonacular.com/recipes/sheet-pan-chicken-cauliflower-921598\">Sheet Pan Chicken Cauliflower</a>, and <a href=\"https://spoonacular.com/recipes/sheet-pan-roasted-broccoli-918006\">Sheet Pan Roasted Broccoli</a> for similar recipes.",
+    "cuisines": [],
+    "dishTypes": [
+      "side dish"
+    ],
+    "diets": [
+      "dairy free"
+    ],
+    "occasions": [],
+    "winePairing": {},
+    "instructions": "Cut the florets off the stems and and then chop them into tiny florets. You can also chop up the stems into tiny pieces if you want. You should have about 6 cups of chopped cauliflower. In a large skillet heat 2 tablespoons of olive oil over medium-high heat. Add the cauliflower, 1 teaspoon of salt, rosemary, and sumac. Sauté until cauliflower is tender and starts to brown a bit, stirring as necessary, about 15 minutes. You can also add a bit of olive oil if the pan starts to get too dry or the cauliflower is starting to stick. Meanwhile, in a small skillet, toast the pinenuts over medium heat until golden brown. Set aside. Heat the remaining 2 tablespoons of olive oil in the same pan. Once oil is shimmering, toss in the breadcrumbs and stir, toasting the breadcrumbs. Season with a pinch of kosher salt and a few turns of freshly ground black pepper. Remove from the heat and toss in half of the chopped parsley. When cauliflower is done, remove from the heat and season to taste with freshly ground black pepper and a pinch or so of salt if necessary. Toss in the toasted pine nuts, the chopped raisins, and the remaining parsley. When ready to serve, sprinkle the top with the toasted breadcrumbs and some pecorino.",
+    "analyzedInstructions": [
+      {
+        "name": "",
+        "steps": [
+          {
+            "number": 1,
+            "step": "Cut the florets off the stems and and then chop them into tiny florets. You can also chop up the stems into tiny pieces if you want. You should have about 6 cups of chopped cauliflower. In a large skillet heat 2 tablespoons of olive oil over medium-high heat.",
+            "ingredients": [
+              {
+                "id": 11135,
+                "name": "cauliflower",
+                "localizedName": "cauliflower",
+                "image": "cauliflower.jpg"
+              },
+              {
+                "id": 4053,
+                "name": "olive oil",
+                "localizedName": "olive oil",
+                "image": "olive-oil.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404645,
+                "name": "frying pan",
+                "localizedName": "frying pan",
+                "image": "pan.png"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "step": "Add the cauliflower, 1 teaspoon of salt, rosemary, and sumac. Sauté until cauliflower is tender and starts to brown a bit, stirring as necessary, about 15 minutes. You can also add a bit of olive oil if the pan starts to get too dry or the cauliflower is starting to stick. Meanwhile, in a small skillet, toast the pinenuts over medium heat until golden brown. Set aside.",
+            "ingredients": [
+              {
+                "id": 11135,
+                "name": "cauliflower",
+                "localizedName": "cauliflower",
+                "image": "cauliflower.jpg"
+              },
+              {
+                "id": 4053,
+                "name": "olive oil",
+                "localizedName": "olive oil",
+                "image": "olive-oil.jpg"
+              },
+              {
+                "id": 12147,
+                "name": "pine nuts",
+                "localizedName": "pine nuts",
+                "image": "pine-nuts.png"
+              },
+              {
+                "id": 2036,
+                "name": "rosemary",
+                "localizedName": "rosemary",
+                "image": "rosemary.jpg"
+              },
+              {
+                "id": 10211111,
+                "name": "sumac",
+                "localizedName": "sumac",
+                "image": "dried-sumac.jpg"
+              },
+              {
+                "id": 18070,
+                "name": "toast",
+                "localizedName": "toast",
+                "image": "toast"
+              },
+              {
+                "id": 2047,
+                "name": "salt",
+                "localizedName": "salt",
+                "image": "salt.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404645,
+                "name": "frying pan",
+                "localizedName": "frying pan",
+                "image": "pan.png"
+              }
+            ],
+            "length": {
+              "number": 15,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 3,
+            "step": "Heat the remaining 2 tablespoons of olive oil in the same pan. Once oil is shimmering, toss in the breadcrumbs and stir, toasting the breadcrumbs. Season with a pinch of kosher salt and a few turns of freshly ground black pepper.",
+            "ingredients": [
+              {
+                "id": 1002030,
+                "name": "ground black pepper",
+                "localizedName": "ground black pepper",
+                "image": "pepper.jpg"
+              },
+              {
+                "id": 18079,
+                "name": "breadcrumbs",
+                "localizedName": "breadcrumbs",
+                "image": "breadcrumbs.jpg"
+              },
+              {
+                "id": 1082047,
+                "name": "kosher salt",
+                "localizedName": "kosher salt",
+                "image": "salt.jpg"
+              },
+              {
+                "id": 4053,
+                "name": "olive oil",
+                "localizedName": "olive oil",
+                "image": "olive-oil.jpg"
+              },
+              {
+                "id": 4582,
+                "name": "cooking oil",
+                "localizedName": "cooking oil",
+                "image": "vegetable-oil.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404645,
+                "name": "frying pan",
+                "localizedName": "frying pan",
+                "image": "pan.png"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "step": "Remove from the heat and toss in half of the chopped parsley. When cauliflower is done, remove from the heat and season to taste with freshly ground black pepper and a pinch or so of salt if necessary. Toss in the toasted pine nuts, the chopped raisins, and the remaining parsley. When ready to serve, sprinkle the top with the toasted breadcrumbs and some pecorino.",
+            "ingredients": [
+              {
+                "id": 1002030,
+                "name": "ground black pepper",
+                "localizedName": "ground black pepper",
+                "image": "pepper.jpg"
+              },
+              {
+                "id": 18079,
+                "name": "breadcrumbs",
+                "localizedName": "breadcrumbs",
+                "image": "breadcrumbs.jpg"
+              },
+              {
+                "id": 11135,
+                "name": "cauliflower",
+                "localizedName": "cauliflower",
+                "image": "cauliflower.jpg"
+              },
+              {
+                "id": 12147,
+                "name": "pine nuts",
+                "localizedName": "pine nuts",
+                "image": "pine-nuts.png"
+              },
+              {
+                "id": 1038,
+                "name": "pecorino",
+                "localizedName": "pecorino",
+                "image": "parmesan.jpg"
+              },
+              {
+                "id": 11297,
+                "name": "parsley",
+                "localizedName": "parsley",
+                "image": "parsley.jpg"
+              },
+              {
+                "id": 9299,
+                "name": "raisins",
+                "localizedName": "raisins",
+                "image": "raisins.jpg"
+              },
+              {
+                "id": 2047,
+                "name": "salt",
+                "localizedName": "salt",
+                "image": "salt.jpg"
+              }
+            ],
+            "equipment": []
+          }
+        ]
+      }
+    ],
+    "originalId": null
+  }

@@ -1,0 +1,179 @@
+{
+    "calories": "349k",
+    "carbs": "26g",
+    "fat": "26g",
+    "protein": "7g",
+    "bad": [
+      {
+        "title": "Calories",
+        "amount": "349k",
+        "indented": false,
+        "percentOfDailyNeeds": 17.5
+      },
+      {
+        "title": "Fat",
+        "amount": "26g",
+        "indented": false,
+        "percentOfDailyNeeds": 40.33
+      },
+      {
+        "title": "Saturated Fat",
+        "amount": "3g",
+        "indented": true,
+        "percentOfDailyNeeds": 19.1
+      },
+      {
+        "title": "Carbohydrates",
+        "amount": "26g",
+        "indented": false,
+        "percentOfDailyNeeds": 8.78
+      },
+      {
+        "title": "Sugar",
+        "amount": "9g",
+        "indented": true,
+        "percentOfDailyNeeds": 10.62
+      },
+      {
+        "title": "Cholesterol",
+        "amount": "0.0mg",
+        "indented": false,
+        "percentOfDailyNeeds": 0
+      },
+      {
+        "title": "Sodium",
+        "amount": "725mg",
+        "indented": false,
+        "percentOfDailyNeeds": 31.55
+      }
+    ],
+    "good": [
+      {
+        "title": "Protein",
+        "amount": "7g",
+        "indented": false,
+        "percentOfDailyNeeds": 14.43
+      },
+      {
+        "title": "Manganese",
+        "amount": "1mg",
+        "indented": false,
+        "percentOfDailyNeeds": 93.19
+      },
+      {
+        "title": "Vitamin C",
+        "amount": "71mg",
+        "indented": false,
+        "percentOfDailyNeeds": 86.13
+      },
+      {
+        "title": "Vitamin K",
+        "amount": "57µg",
+        "indented": false,
+        "percentOfDailyNeeds": 54.39
+      },
+      {
+        "title": "Folate",
+        "amount": "103µg",
+        "indented": false,
+        "percentOfDailyNeeds": 25.99
+      },
+      {
+        "title": "Vitamin E",
+        "amount": "3mg",
+        "indented": false,
+        "percentOfDailyNeeds": 24.42
+      },
+      {
+        "title": "Phosphorus",
+        "amount": "193mg",
+        "indented": false,
+        "percentOfDailyNeeds": 19.36
+      },
+      {
+        "title": "Magnesium",
+        "amount": "73mg",
+        "indented": false,
+        "percentOfDailyNeeds": 18.36
+      },
+      {
+        "title": "Fiber",
+        "amount": "4g",
+        "indented": false,
+        "percentOfDailyNeeds": 18.04
+      },
+      {
+        "title": "Potassium",
+        "amount": "630mg",
+        "indented": false,
+        "percentOfDailyNeeds": 18.02
+      },
+      {
+        "title": "Vitamin B1",
+        "amount": "0.27mg",
+        "indented": false,
+        "percentOfDailyNeeds": 17.7
+      },
+      {
+        "title": "Copper",
+        "amount": "0.35mg",
+        "indented": false,
+        "percentOfDailyNeeds": 17.41
+      },
+      {
+        "title": "Vitamin B6",
+        "amount": "0.33mg",
+        "indented": false,
+        "percentOfDailyNeeds": 16.35
+      },
+      {
+        "title": "Iron",
+        "amount": "2mg",
+        "indented": false,
+        "percentOfDailyNeeds": 13.87
+      },
+      {
+        "title": "Vitamin B3",
+        "amount": "2mg",
+        "indented": false,
+        "percentOfDailyNeeds": 12.41
+      },
+      {
+        "title": "Vitamin B2",
+        "amount": "0.2mg",
+        "indented": false,
+        "percentOfDailyNeeds": 11.61
+      },
+      {
+        "title": "Zinc",
+        "amount": "1mg",
+        "indented": false,
+        "percentOfDailyNeeds": 11.43
+      },
+      {
+        "title": "Vitamin B5",
+        "amount": "1mg",
+        "indented": false,
+        "percentOfDailyNeeds": 11.03
+      },
+      {
+        "title": "Calcium",
+        "amount": "65mg",
+        "indented": false,
+        "percentOfDailyNeeds": 6.59
+      },
+      {
+        "title": "Selenium",
+        "amount": "4µg",
+        "indented": false,
+        "percentOfDailyNeeds": 6.36
+      },
+      {
+        "title": "Vitamin A",
+        "amount": "90IU",
+        "indented": false,
+        "percentOfDailyNeeds": 1.81
+      }
+    ],
+    "expires": 1648694416336
+  }

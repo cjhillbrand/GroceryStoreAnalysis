@@ -37,3 +37,13 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Credentials.
+recipe_login.py
+kroger_login.py
+
+# Cache files
+*.cache
+
+# Python virtual environment
+venv/
