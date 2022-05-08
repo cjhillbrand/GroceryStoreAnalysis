@@ -1,0 +1,11 @@
+name: GroceryStoreAnalysis
+title:
+username:
+account: cjhillbrand-jhu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6256187
+bundleId: 5882461
+url: https://cjhillbrand-jhu.shinyapps.io/GroceryStoreAnalysis/
+when: 1651968488.10536
+lastSyncTime: 1651968488.10537

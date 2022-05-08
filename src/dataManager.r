@@ -1,6 +1,6 @@
 library(RSQLite)
 library(stringr)
-DATA_DIR <- "../.data/"
+DATA_DIR <- ".data/"
 DATA_FILE <- paste0(DATA_DIR, "grocery_store_analysis.db")
 
 QUERIES_DIR <- paste0(DATA_DIR, "queries/")
