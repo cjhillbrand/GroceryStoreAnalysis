@@ -1,6 +1,6 @@
 # GroceryStoreAnalysis
 Repository for housing documents, and code for Intro to Statistics 605.631 data challenge.
-
+[Hosted here](https://cjhillbrand-jhu.shinyapps.io/GroceryStoreAnalysis/)
 ## Ideas for data
 1. [Kroger API](https://developer.kroger.com/reference/)
 2. Scrape html for safeway
